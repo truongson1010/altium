@@ -1,2 +1,2 @@
 # altium
-designer
+electronic designer
